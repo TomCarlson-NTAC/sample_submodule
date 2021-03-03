@@ -1,3 +1,3 @@
 # sample_submodule
 Submodule for testing.
-Version 2
+Version 3
